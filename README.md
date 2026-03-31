@@ -138,11 +138,11 @@ These files are required for storing and retrieving expense data.
 
 ## 🚀 Future Enhancements
 
- [!] **GUI-based Interface:** Transition from CLI to Tkinter or a Web App (Flask/FastAPI).
- [!] **Data Visualization:** Integration of Matplotlib/Seaborn for charts and graphs.
- [!] **Proactive Budgeting:** Implementation of budget planning and automated alerts.
- [!] **Report Export:** Ability to export financial summaries as CSV or PDF.
- [!] **Database Integration:** Moving from JSON to SQLite or MongoDB for robust data handling.
+ * **GUI-based Interface:** Transition from CLI to Tkinter or a Web App (Flask/FastAPI).
+ * **Data Visualization:** Integration of Matplotlib/Seaborn for charts and graphs.
+ * **Proactive Budgeting:** Implementation of budget planning and automated alerts.
+ * **Report Export:** Ability to export financial summaries as CSV or PDF.
+ * **Database Integration:** Moving from JSON to SQLite or MongoDB for robust data handling.
 
 ---
 
