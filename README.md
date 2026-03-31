@@ -52,7 +52,7 @@ Beyond basic tracking, this project demonstrates the practical application of fo
 
 ## ⏱️ Complexity Analysis
 
-*Let $n$ = number of expense records.*
+*Let n = number of expense records.*
 
 | Operation | Time Complexity | Space Complexity |
 | :--- | :--- | :--- |
