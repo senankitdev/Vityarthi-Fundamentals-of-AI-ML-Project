@@ -1,0 +1,49 @@
+{
+    "2026-03-31": [
+        {
+            "amount": 200.0,
+            "category": "food",
+            "note": "pizza"
+        },
+        {
+            "amount": 500.0,
+            "category": "travel",
+            "note": "city1"
+        },
+        {
+            "amount": 300.0,
+            "category": "food",
+            "note": "burger"
+        },
+        {
+            "amount": 350.0,
+            "category": "shopping",
+            "note": "jeans"
+        },
+        {
+            "amount": 200.0,
+            "category": "food",
+            "note": "pizza"
+        },
+        {
+            "amount": 500.0,
+            "category": "travel",
+            "note": "city2"
+        },
+        {
+            "amount": 700.0,
+            "category": "food",
+            "note": "dominos"
+        },
+        {
+            "amount": 7000.0,
+            "category": "travel",
+            "note": "bhopal to delhi"
+        },
+        {
+            "amount": 800.0,
+            "category": "bills",
+            "note": "water"
+        }
+    ]
+}
