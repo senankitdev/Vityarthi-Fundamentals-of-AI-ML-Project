@@ -154,13 +154,13 @@ This project showcases how classical AI algorithms can be effectively applied to
 ### PROJECT OUTPUT
 
 <p align="center">
-  <img src="images/budget_projection.png" width="85%">
+  <img src="images/Screenshot 2026-03-31 231731.png" width="85%">
 </p>
 <p align="center">
-  <img src="images/budget_projection.png" width="85%">
+  <img src="images/Screenshot 2026-03-31 232025.png" width="85%">
 </p>
 <p align="center">
-  <img src="images/budget_projection.png" width="85%">
+  <img src="images/Screenshot 2026-03-31 232426.png" width="85%">
 </p>
 ---
 ## 📬 Contact
