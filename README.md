@@ -151,7 +151,18 @@ These files are required for storing and retrieving expense data.
 This project showcases how classical AI algorithms can be effectively applied to everyday problems like expense tracking. It bridges the gap between theoretical data structures and practical software design, delivering an extensible solution for personal finance management.
 
 ---
+### PROJECT OUTPUT
 
+<p align="center">
+  <img src="images/budget_projection.png" width="85%">
+</p>
+<p align="center">
+  <img src="images/budget_projection.png" width="85%">
+</p>
+<p align="center">
+  <img src="images/budget_projection.png" width="85%">
+</p>
+---
 ## 📬 Contact
 
 *For suggestions or collaboration, feel free to reach out!*
